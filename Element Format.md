@@ -1,0 +1,14 @@
+{
+    "Element Name": {
+        "MPKG": Moles per Kilogram,
+        "DENS": Desnity, in KG per m^3,
+        "SYMB": Atomic Symbol(s),
+        "BOIL": The boil point of the element (in *C),
+        "MELT": The melt point of the element (in *C),
+        "BGAP": The band gap of the element in electron volts (kept as 0: insulator),
+        "RCOL": The RED colour value of the element (between 0 and 255),
+        "GCOL": The GREEN colour value of the element (between 0 and 255),
+        "BCOL": The BLUE colour value of the element (between 0 and 255),
+        "HLAT": The heat latency in kilojoules per KG per *C
+    }
+}
