@@ -1,0 +1,86 @@
+{
+    "Hydrogen": {
+        "MPKG": 49600,
+        "DENS": 0.08988,
+        "SYMB": "H",
+        "BOIL": -252.87,
+        "MELT": -259.16,
+        "BGAP": 0,
+        "RCOL": 255,
+        "GCOL": 255,
+        "BCOL": 255,
+        "HLAT": 14.304
+    },
+    "Oxygen": {
+        "MPKG": 31250,
+        "DENS": 1.429,
+        "SYMB": "O",
+        "BOIL": -182.96,
+        "MELT": -218.79,
+        "BGAP": 0,
+        "RCOL": 255,
+        "GCOL": 0,
+        "BCOL": 0,
+        "HLAT": 0.918
+    },
+    "Silicon": {
+        "MPKG": 35.7,
+        "DENS": 2330,
+        "SYMB": "Si",
+        "BOIL": 2900,
+        "MELT": 1414,
+        "BGAP": 1.12,
+        "RCOL": 192,
+        "GCOL": 192,
+        "BCOL": 192,
+        "HLAT": 0.705
+    },
+    "Iron": {
+        "MPKG": 17.9,
+        "DENS": 7874,
+        "SYMB": "Fe",
+        "BOIL": 2862,
+        "MELT": 1538,
+        "BGAP": 0,
+        "RCOL": 183,
+        "GCOL": 65,
+        "BCOL": 14,
+        "HLAT": 0.449
+    },
+    "Aluminum": {
+        "MPKG": 37.2,
+        "DENS": 2700,
+        "SYMB": "Al",
+        "BOIL": 2519,
+        "MELT": 660.32,
+        "BGAP": 0,
+        "RCOL": 211,
+        "GCOL": 211,
+        "BCOL": 211,
+        "HLAT": 0.897
+    },
+    "Carbon": {
+        "MPKG": 83.3,
+        "DENS": 2267,
+        "SYMB": "C",
+        "BOIL": 4827,
+        "MELT": 3550,
+        "BGAP": 5.5,
+        "RCOL": 0,
+        "GCOL": 0,
+        "BCOL": 0,
+        "HLAT": 0.709
+    },
+    "Phosphorus": {
+        "MPKG": 32.4,
+        "DENS": 1823,
+        "SYMB": "P",
+        "BOIL": 280.5,
+        "MELT": 44.1,
+        "BGAP": 2.1,
+        "RCOL": 255,
+        "GCOL": 165,
+        "BCOL": 0,
+        "HLAT": 0.769
+    }
+}
