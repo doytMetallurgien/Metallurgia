@@ -1,3 +1,4 @@
+Format for an element:
 {
     "Element Name": {
         "MPKG": Moles per Kilogram,
