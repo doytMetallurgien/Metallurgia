@@ -13,3 +13,16 @@ Format for an element:
         "HLAT": The heat latency in kilojoules per KG per *C
     }
 }
+
+Format for a reaction:
+
+    {
+        "REACTANTS": {
+            "ReactantName": Reactant RATIO
+        },
+        "PRODUCTS": {
+            "ProductName": Product RATIO
+        },
+        "DELTAHEAT": The amount of energy that the reactants lose in kJ/mole,
+        "ACTIVHEAT": The amount of heat needed to stimulate the reaction
+    },
