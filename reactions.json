@@ -1,0 +1,69 @@
+[
+    {
+        "REACTANTS": {
+            "Hydrogen": 2,
+            "Oxygen": 1
+        },
+        "PRODUCTS": {
+            "Water": 2
+        },
+        "DELTAHEAT": -285.8,
+        "ACTIVHEAT": 60
+    },
+    {
+        "REACTANTS": {
+            "Iron": 4,
+            "Oxygen": 3
+        },
+        "PRODUCTS": {
+            "Iron_Oxide": 2
+        },
+        "DELTAHEAT": -1648,
+        "ACTIVHEAT": 100
+    },
+    {
+        "REACTANTS": {
+            "Silicon": 1,
+            "Oxygen": 2
+        },
+        "PRODUCTS": {
+            "Silicon_Dioxide": 1
+        },
+        "DELTAHEAT": -910,
+        "ACTIVHEAT": 170
+    },
+    {
+        "REACTANTS": {
+            "Aluminum": 4,
+            "Oxygen": 3
+        },
+        "PRODUCTS": {
+            "Aluminum_Oxide": 2
+        },
+        "DELTAHEAT": -1675,
+        "ACTIVHEAT": 150
+    },
+    {
+        "REACTANTS": {
+            "Carbon": 1,
+            "Oxygen": 2
+        },
+        "PRODUCTS": {
+            "Carbon_Dioxide": 1
+        },
+        "DELTAHEAT": -393.5,
+        "ACTIVHEAT": 125
+    },
+    {
+        "REACTANTS": {
+            "Phosphorus": 2,
+            "Oxygen": 5,
+            "Water": 3
+        },
+        "PRODUCTS": {
+            "Phosphoric_Acid": 2
+        },
+        "DELTAHEAT": -1279.6,
+        "ACTIVHEAT": 80
+    }
+]
