@@ -83,4 +83,76 @@
         "BCOL": 0,
         "HLAT": 0.769
     }
+    "Water": {
+        "MPKG": 18.015,
+        "DENS": 1000,
+        "SYMB": "H2O",
+        "BOIL": 100,
+        "MELT": 0,
+        "BGAP": 0,
+        "RCOL": 0,
+        "GCOL": 0,
+        "BCOL": 255,
+        "HLAT": 75.3
+    },
+    "Iron_Oxide": {
+        "MPKG": 159.69,
+        "DENS": 5200,
+        "SYMB": "Fe2O3",
+        "BOIL": 1565,
+        "MELT": 1565,
+        "BGAP": 2.1,
+        "RCOL": 139,
+        "GCOL": 69,
+        "BCOL": 19,
+        "HLAT": 0.918
+    },
+    "Silicon_Dioxide": {
+        "MPKG": 60.08,
+        "DENS": 2650,
+        "SYMB": "SiO2",
+        "BOIL": 2230,
+        "MELT": 1710,
+        "BGAP": 9.4,
+        "RCOL": 200,
+        "GCOL": 200,
+        "BCOL": 200,
+        "HLAT": 0.705
+    },
+    "Aluminum_Oxide": {
+        "MPKG": 101.96,
+        "DENS": 3990,
+        "SYMB": "Al2O3",
+        "BOIL": 2072,
+        "MELT": 2072,
+        "BGAP": 8.8,
+        "RCOL": 210,
+        "GCOL": 210,
+        "BCOL": 210,
+        "HLAT": 0.897
+    },
+    "Carbon_Dioxide": {
+        "MPKG": 44.01,
+        "DENS": 1.977,
+        "SYMB": "CO2",
+        "BOIL": -78.5,
+        "MELT": -56.6,
+        "BGAP": 0,
+        "RCOL": 200,
+        "GCOL": 200,
+        "BCOL": 200,
+        "HLAT": 0.709
+    },
+    "Phosphoric_Acid": {
+        "MPKG": 97.99,
+        "DENS": 1840,
+        "SYMB": "H3PO4",
+        "BOIL": 158,
+        "MELT": 42,
+        "BGAP": 0,
+        "RCOL": 255,
+        "GCOL": 255,
+        "BCOL": 255,
+        "HLAT": 0.769
+    }
 }
