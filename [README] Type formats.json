@@ -15,7 +15,7 @@ Format for an element:
 }
 
 Format for a reaction:
-
+[
     {
         "REACTANTS": {
             "ReactantName": Reactant RATIO
@@ -26,3 +26,4 @@ Format for a reaction:
         "DELTAHEAT": The amount of energy that the reactants lose in kJ/mole,
         "ACTIVHEAT": The amount of heat needed to stimulate the reaction
     },
+]
